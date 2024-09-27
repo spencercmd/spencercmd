@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer, working as a Systems & DevOps Engineer at a small SaaS company as part of a great team!
+developer, dog lover, security nutcase. Might fork ya with some incoherent ramblings and a pull request.
 
 ## 🛠 Skills
 
