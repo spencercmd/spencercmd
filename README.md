@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Spencer!
 
 [![GitHub followers](https://img.shields.io/github/followers/spencercmd?label=Follow&style=social)](https://github.com/spencercmd)
-[![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/spencercmd?style=social)](https://x.com/spencercmd)
-
 ## 🚀 About Me
 
 developer, dog lover, security nutcase. Might fork ya with some incoherent ramblings and a pull request.
