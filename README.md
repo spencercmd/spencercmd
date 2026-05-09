@@ -1,40 +1,35 @@
-# 👋 Hi there, I'm Spencer!
+AI Engineering Lead @ ERI
 
-[![GitHub followers](https://img.shields.io/github/followers/spencercmd?label=Follow&style=social)](https://github.com/spencercmd)
-## 🚀 About Me
+## Skills/Favorites
 
-developer, dog lover, security nutcase. Might fork ya with some incoherent ramblings and a pull request.
+**Languages & runtime**
 
-## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+**Web**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats
+**AI & ML**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spencercmd&show_icons=true&theme=radical)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## 🏆 GitHub Trophies
+**Cloud & infrastructure**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spencercmd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 
----
+**Developer tooling**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spencercmd&label=Profile%20views&color=0e75b6&style=flat" alt="spencercmd" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/spencercmd/spencercmd">
-    <img src="https://img.shields.io/badge/⭐️%20From%20spencercmd-434D58?style=for-the-badge" alt="From spencercmd" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-14191F?style=flat-square&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01F7D6?style=flat-square&logo=warp&logoColor=black)
