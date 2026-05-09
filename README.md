@@ -1,5 +1,11 @@
 AI Engineering Lead @ ERI
 
+How to reach me:
+
+## X
+
+[![X](https://img.shields.io/badge/X-%40spencercmd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/spencercmd)
+
 ## Skills/Favorites
 
 **Languages & runtime**
